@@ -377,6 +377,12 @@
     <Compile Include="VIEW\INVVIEW\FrmWarehouseWarrantList_NoSettlement.Designer.cs">
       <DependentUpon>FrmWarehouseWarrantList_NoSettlement.cs</DependentUpon>
     </Compile>
+    <Compile Include="VIEW\PBVIEW\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VIEW\PBVIEW\Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
     <Compile Include="VIEW\PBVIEW\FrmPBDesignBomQuery.cs">
       <SubType>Form</SubType>
     </Compile>
