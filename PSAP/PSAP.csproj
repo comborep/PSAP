@@ -383,29 +383,29 @@
     <Compile Include="VIEW\PBVIEW\Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-    <Compile Include="VIEW\PBVIEW\FrmPBDesignBomQuery.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="VIEW\PBVIEW\FrmPBDesignBomQuery.Designer.cs">
-      <DependentUpon>FrmPBDesignBomQuery.cs</DependentUpon>
-    </Compile>
-    <Compile Include="VIEW\PBVIEW\FrmPBDesignBom_PS.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="VIEW\PBVIEW\FrmPBDesignBom_PS.Designer.cs">
-      <DependentUpon>FrmPBDesignBom_PS.cs</DependentUpon>
-    </Compile>
     <Compile Include="VIEW\PBVIEW\FrmPBDesignBom.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="VIEW\PBVIEW\FrmPBDesignBom.Designer.cs">
       <DependentUpon>FrmPBDesignBom.cs</DependentUpon>
     </Compile>
+    <Compile Include="VIEW\PBVIEW\FrmPBDesignBomQuery.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VIEW\PBVIEW\FrmPBDesignBomQuery.Designer.cs">
+      <DependentUpon>FrmPBDesignBomQuery.cs</DependentUpon>
+    </Compile>
     <Compile Include="VIEW\PBVIEW\FrmPBDesignBom_InputNumber.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="VIEW\PBVIEW\FrmPBDesignBom_InputNumber.Designer.cs">
       <DependentUpon>FrmPBDesignBom_InputNumber.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VIEW\PBVIEW\FrmPBDesignBom_PS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VIEW\PBVIEW\FrmPBDesignBom_PS.Designer.cs">
+      <DependentUpon>FrmPBDesignBom_PS.cs</DependentUpon>
     </Compile>
     <Compile Include="VIEW\PBVIEW\FrmProductionSchedule.cs">
       <SubType>Form</SubType>
@@ -1075,17 +1075,17 @@
     <EmbeddedResource Include="VIEW\INVVIEW\FrmWarehouseWarrantList_NoSettlement.resx">
       <DependentUpon>FrmWarehouseWarrantList_NoSettlement.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="VIEW\PBVIEW\FrmPBDesignBomQuery.resx">
-      <DependentUpon>FrmPBDesignBomQuery.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="VIEW\PBVIEW\FrmPBDesignBom_PS.resx">
-      <DependentUpon>FrmPBDesignBom_PS.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="VIEW\PBVIEW\FrmPBDesignBom.resx">
       <DependentUpon>FrmPBDesignBom.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="VIEW\PBVIEW\FrmPBDesignBomQuery.resx">
+      <DependentUpon>FrmPBDesignBomQuery.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="VIEW\PBVIEW\FrmPBDesignBom_InputNumber.resx">
       <DependentUpon>FrmPBDesignBom_InputNumber.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VIEW\PBVIEW\FrmPBDesignBom_PS.resx">
+      <DependentUpon>FrmPBDesignBom_PS.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="VIEW\PBVIEW\FrmProductionSchedule.resx">
       <DependentUpon>FrmProductionSchedule.cs</DependentUpon>
